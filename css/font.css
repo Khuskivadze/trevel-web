@@ -1,0 +1,10 @@
+@font-face {
+    font-family:open-sans;
+    src: url(../fonts/opensans-regular-webfont.woff);
+    font-weight: normal;
+}
+@font-face {
+    font-family:open-sans;
+    src: url(../fonts/opensans-bold-webfont.woff);
+    font-weight: bold;
+}
