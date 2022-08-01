@@ -8,3 +8,18 @@
     src: url(../fonts/opensans-bold-webfont.woff);
     font-weight: bold;
 }
+@font-face {
+    font-family:unnamed-normal;
+    src: url(../fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2);
+    font-weight: normal;
+}
+@font-face {
+    font-family:unnamed-normal;
+    src: url(../fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2);
+    font-weight: bold;
+}
+@font-face {
+    font-family:curved;
+    src: url(../fonts/SlGUmQSNjdsmc35JDF1K5GR1SDk_YAPI.woff2);
+    font-weight: normal;
+}
